@@ -1,0 +1,10 @@
+#UseyourDrive.gf_upload_box .fileupload-start-button {
+    display: none !important;
+}
+
+#UseyourDrive .fileupload-header-title,
+#UseyourDrive .fileupload-add-button button,
+#UseyourDrive .upload-add-file,
+#UseyourDrive .upload-add-folder {
+    pointer-events: none;
+}
